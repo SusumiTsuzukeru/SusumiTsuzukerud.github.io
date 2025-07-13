@@ -59,7 +59,7 @@ sqllite快速入门
 学习代理上网  
 学习汇编  
 学习flask  
-学习termux  
+termux快速入门  
 学习archlinux安装  
 学习浏览器扩展开发  
 mybatis快速入门  
