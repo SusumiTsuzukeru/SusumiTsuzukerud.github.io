@@ -62,9 +62,7 @@ sqllite快速入门
 学习termux  
 学习archlinux安装  
 学习浏览器扩展开发  
-
-
-
+mybatis快速入门  
 
 # Knowledge Instrumentality Project
 https://learngitbranching.js.org  
@@ -77,8 +75,7 @@ https://edu.gcfglobal.org/en/macosbasics
 https://studytonight.com/computer-networks  
 https://geeksforgeeks.org/computer-organization-and-architecture-tutorials  
 https://www.geeksforgeeks.org/english-grammar  
-https://spring.io/quickstart  
-https://spring.io/guides/gs/spring-boot  
+
 https://mybatis.org/mybatis-3/getting-started  
 https://docs.github.com/get-started/quickstart/hello-world  
 https://docker-curriculum.com  
