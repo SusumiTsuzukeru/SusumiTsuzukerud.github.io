@@ -57,22 +57,21 @@ sqllite快速入门
 学习网络数据包嗅探  
 学习越狱和Root  
 学习代理上网  
+学习汇编  
+学习flask  
+学习termux  
+学习archlinux安装  
+学习浏览器扩展开发  
+
+
+
 
 # Knowledge Instrumentality Project
 https://learngitbranching.js.org  
 https://w3schools.com  
 https://freecodecamp.org  
-https://exercism.org/tracks/x86-64-assembly  
-https://exercism.org/tracks/groovy  
-https://expressjs.com/en/starter/hello-world.html  
-https://flask.palletsprojects.com/en/stable  
-https://codecademy.com/learn/computer-architecture-assembly-language  
 https://codecademy.com/learn/fundamentals-of-operating-systems  
 https://docs.fabricmc.net/develop/getting-started/introduction-to-fabric-and-modding  
-https://wiki.termux.com/wiki/Getting_started  
-https://wiki.facepunch.com/gmod/Quick_Start  
-https://wiki.archlinux.org/title/Installation_guide  
-https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions  
 https://edu.gcfglobal.org/en/topics/emailbasics  
 https://edu.gcfglobal.org/en/macosbasics  
 https://studytonight.com/computer-networks  
