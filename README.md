@@ -99,6 +99,7 @@ https://mohmal.com/zh/inbox
 https://linshiguge.com  
 https://alternativeto.net  
 https://fast.com  
+https://www.yeka.ai  
 https://scamalytics.com  
 https://mermaidchart.com/play  
 https://artificialanalysis.ai  
