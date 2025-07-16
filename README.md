@@ -30,6 +30,11 @@
 https://mega.nz/folder/S2x1zbKD#UvcYCWQXaljR5eJU2KNOng
 ```
 # Hello LLM
+学习gimp快速入门  
+学习termux快速入门  
+学习mybatis快速入门  
+学习flask快速入门  
+学习automa快速入门(https://www.youtube.com/@automarpa_ai)  
 学习并使用MCP  
 使用Github Copilot来理解开源项目  
 列举多个高情商处理场景全部输出到数组  
@@ -57,11 +62,8 @@ sqllite快速入门
 学习越狱和Root  
 学习代理上网  
 学习汇编  
-学习flask  
-termux快速入门  
 学习archlinux安装  
 学习浏览器扩展开发  
-mybatis快速入门  
 
 # Knowledge Instrumentality Project
 https://learngitbranching.js.org  
@@ -79,10 +81,8 @@ https://mybatis.org/mybatis-3/getting-started
 https://docs.github.com/get-started/quickstart/hello-world  
 https://docker-curriculum.com  
 https://youtube.com/watch?v=nPW6tKeapsM  
-https://www.youtube.com/watch?v=kCc8FmEb1nY  
 https://doc.rust-lang.org/book  
 https://developer.mozilla.org/en-US/docs/Web/HTTP  
-https://www.gimp.org/tutorials  
 https://javatpoint.com/gradle  
 
 # MyBookmarks  
