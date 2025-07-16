@@ -1,18 +1,17 @@
 ```
 > RUNNING:
-[ ] 完成课堂作业
 [ ] 使用Github Copilot来理解开源项目
 
 >> READY:
-[ ] 完成期末作业
+[ ] 整理桌面文件
 
 ... WAITING:
 [ ] 最终确定毕业项目题目 (等待 @导师 回复确认)
 
 ~ BACKGROUND:
-[ ] 整理桌面文件
+
 [ ] 学习新的Docker
-[ ] 申请github学生认证
+
 [ ] 学习机器学习
 [ ] 补完数据结构与算法(https://w3schools.com/dsa)
 [ ] 补完操作系统(https://tutorialspoint.com/operating_system)
