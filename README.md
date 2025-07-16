@@ -30,6 +30,7 @@
 https://mega.nz/folder/S2x1zbKD#UvcYCWQXaljR5eJU2KNOng
 ```
 # Hello LLM
+申请虚拟信用卡  
 学习gimp快速入门  
 学习termux快速入门  
 学习mybatis快速入门  
