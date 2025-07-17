@@ -42,7 +42,7 @@ https://mega.nz/folder/S2x1zbKD#UvcYCWQXaljR5eJU2KNOng
 列举多个日常生活能接触到的工具并教我如何使用输出到数组  
 请给我一个miencraft redstone教程  
 请给我一个miencraft command block教程  
-请给我一个macos教程
+请给我一个macos教程  
 生活常识学习目录  
 列举生活中常见的物理化学现象  
 列举生活中常见的化学物质的性质和用途,以及对对生命的危害程度.  
@@ -66,8 +66,8 @@ sqllite快速入门
 学习archlinux安装  
 学习浏览器扩展开发  
 学习英语  
-学习macos基础(https://edu.gcfglobal.org/en/macosbasics)
-学习email基础(https://edu.gcfglobal.org/en/topics/emailbasics)
+学习macos基础(https://edu.gcfglobal.org/en/macosbasics)  
+学习email基础(https://edu.gcfglobal.org/en/topics/emailbasics)  
 
 # Knowledge Instrumentality Project
 https://learngitbranching.js.org  
