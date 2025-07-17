@@ -26,6 +26,7 @@
 [ ] 学习gimp快速入门
 [ ] 学习termux快速入门
 [ ] 学习mybatis快速入门
+[ ] 学习Unity快速入门(https://youtube.com/watch?v=nPW6tKeapsM)
 [ ] 学习flask快速入门
 [ ] 学习automa快速入门(https://www.youtube.com/@automarpa_ai)
 [ ] 学习并使用MCP
