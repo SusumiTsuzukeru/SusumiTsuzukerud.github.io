@@ -9,9 +9,11 @@
 [ ] 最终确定毕业项目题目 (等待 @导师 回复确认)
 
 ~ BACKGROUND:
-
+[ ] 学习Data Structures and Algorithms
+[ ] 学习Computer Architecture或者Computer Organization
+[ ] 学习Operating Systems
+[ ] 学习Computer Networks
 [ ] 学习新的Docker
-
 [ ] 学习机器学习
 [ ] 补完数据结构与算法(https://w3schools.com/dsa)
 [ ] 补完操作系统(https://tutorialspoint.com/operating_system)
