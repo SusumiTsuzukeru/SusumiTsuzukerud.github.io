@@ -74,8 +74,7 @@ https://mega.nz/folder/S2x1zbKD#UvcYCWQXaljR5eJU2KNOng
 ```
 
 # Knowledge Instrumentality Project
-https://w3schools.com  
-https://freecodecamp.org  
+
 https://codecademy.com/learn/fundamentals-of-operating-systems  
 https://studytonight.com/computer-networks  
 https://geeksforgeeks.org/computer-organization-and-architecture-tutorials  
@@ -83,6 +82,8 @@ https://youtube.com/watch?v=nPW6tKeapsM
 https://doc.rust-lang.org/book  
 
 # MyBookmarks  
+https://w3schools.com  
+https://freecodecamp.org  
 https://asoftmurmur.com  
 https://www.befunky.com/create  
 https://proxy.888005.xyz  
@@ -111,7 +112,6 @@ https://www.downloadnth.com/download.html
 https://s3.amazonaws.com/psiphon/web/u1dy-me41-s9yv/en/download.html  
 https://web.telegram.org/a  
 https://github.com/juewuy/ShellCrash  
-https://github.com/freeCodeCamp  
 https://github.com/EvanLi/Github-Ranking  
 https://github.com/FabricMC  
 https://github.com/GTNewHorizons  
