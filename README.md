@@ -60,7 +60,11 @@
 [ ] 学习英语
 [ ] 学习macos基础(https://edu.gcfglobal.org/en/macosbasics)
 [ ] 学习email基础(https://edu.gcfglobal.org/en/topics/emailbasics)
-[ ] 学习git(https://learngitbranching.js.org) 
+[ ] 学习git(https://learngitbranching.js.org)
+[ ] 学习http快速入门
+[ ] 学习gradle快速入门
+[ ] 学习github快速入门(https://docs.github.com/get-started/quickstart/hello-world)
+[ ] 学习fabric(https://docs.fabricmc.net/develop/getting-started/introduction-to-fabric-and-modding)
 
 ✓ DONE:
 [x] 完成天府论坛报告
@@ -68,23 +72,15 @@
 => URL:
 https://mega.nz/folder/S2x1zbKD#UvcYCWQXaljR5eJU2KNOng
 ```
-# Hello LLM
-
 
 # Knowledge Instrumentality Project
 https://w3schools.com  
 https://freecodecamp.org  
 https://codecademy.com/learn/fundamentals-of-operating-systems  
-https://docs.fabricmc.net/develop/getting-started/introduction-to-fabric-and-modding  
 https://studytonight.com/computer-networks  
 https://geeksforgeeks.org/computer-organization-and-architecture-tutorials  
-
-https://docs.github.com/get-started/quickstart/hello-world  
-https://docker-curriculum.com  
 https://youtube.com/watch?v=nPW6tKeapsM  
 https://doc.rust-lang.org/book  
-https://developer.mozilla.org/en-US/docs/Web/HTTP  
-https://javatpoint.com/gradle  
 
 # MyBookmarks  
 https://asoftmurmur.com  
