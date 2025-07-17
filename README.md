@@ -16,6 +16,17 @@
 [ ] 学习Computer Architecture或者Computer Organization
 [ ] 学习Operating Systems
 [ ] 学习Computer Networks
+[ ] 学习Mathematics
+[ ] 学习Physics
+[ ] 学习Biology
+[ ] 学习English
+[ ] 学习Chemistry
+[ ] 学习Philosophy
+[ ] 学习Logic
+[ ] 学习Economics
+[ ] 学习Psychology
+[ ] 学习History
+
 [ ] 学习新的Docker
 [ ] 学习机器学习
 [ ] 补完数据结构与算法(https://w3schools.com/dsa)
