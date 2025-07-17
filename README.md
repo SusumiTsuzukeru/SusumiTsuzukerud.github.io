@@ -37,8 +37,10 @@
 [ ] 学习gradle快速入门
 [ ] 学习github快速入门(https://docs.github.com/get-started/quickstart/hello-world)
 [ ] 学习qemu虚拟机快速入门
+[ ] 学习Docker快速入门
+[ ] 学习浏览器Extensions开发快速入门
 
-[ ] 学习新的Docker
+
 [ ] 学习机器学习
 [ ] 补完操作系统(https://tutorialspoint.com/operating_system)
 [ ] 补完CSS(https://www.w3schools.com/css/default.asp)
@@ -75,7 +77,6 @@
 [ ] 学习代理上网
 [ ] 学习汇编
 [ ] 学习archlinux安装
-[ ] 学习浏览器扩展开发
 [ ] 学习rust(https://doc.rust-lang.org/book)
 [ ] 学习macos基础(https://edu.gcfglobal.org/en/macosbasics)
 [ ] 学习email基础(https://edu.gcfglobal.org/en/topics/emailbasics)
