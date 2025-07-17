@@ -60,6 +60,7 @@
 [ ] 学习英语
 [ ] 学习macos基础(https://edu.gcfglobal.org/en/macosbasics)
 [ ] 学习email基础(https://edu.gcfglobal.org/en/topics/emailbasics)
+[ ] 学习git(https://learngitbranching.js.org) 
 
 ✓ DONE:
 [x] 完成天府论坛报告
@@ -71,7 +72,6 @@ https://mega.nz/folder/S2x1zbKD#UvcYCWQXaljR5eJU2KNOng
 
 
 # Knowledge Instrumentality Project
-https://learngitbranching.js.org  
 https://w3schools.com  
 https://freecodecamp.org  
 https://codecademy.com/learn/fundamentals-of-operating-systems  
