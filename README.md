@@ -79,7 +79,6 @@ https://mega.nz/folder/S2x1zbKD#UvcYCWQXaljR5eJU2KNOng
 https://codecademy.com/learn/fundamentals-of-operating-systems  
 https://studytonight.com/computer-networks  
 https://geeksforgeeks.org/computer-organization-and-architecture-tutorials  
-https://youtube.com/watch?v=nPW6tKeapsM  
 https://doc.rust-lang.org/book  
 
 # MyBookmarks  
