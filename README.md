@@ -58,6 +58,7 @@
 [ ] 学习汇编
 [ ] 学习archlinux安装
 [ ] 学习浏览器扩展开发
+[ ] 学习rust(https://doc.rust-lang.org/book)
 [ ] 学习英语
 [ ] 学习macos基础(https://edu.gcfglobal.org/en/macosbasics)
 [ ] 学习email基础(https://edu.gcfglobal.org/en/topics/emailbasics)
@@ -79,7 +80,6 @@ https://mega.nz/folder/S2x1zbKD#UvcYCWQXaljR5eJU2KNOng
 https://codecademy.com/learn/fundamentals-of-operating-systems  
 https://studytonight.com/computer-networks  
 https://geeksforgeeks.org/computer-organization-and-architecture-tutorials  
-https://doc.rust-lang.org/book  
 
 # MyBookmarks  
 https://w3schools.com  
