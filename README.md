@@ -12,7 +12,7 @@
 [ ] 学习绝对的基础: OOP
 [ ] 学习绝对的基础: Software Design Patterns
 [ ] 学习绝对的基础: SQL或者NoSQL
-[ ] 学习绝对的基础: Data Structures and Algorithms
+[ ] 学习绝对的基础: Data Structures and Algorithms(https://w3schools.com/dsa)
 [ ] 学习绝对的基础: Computer Architecture或者Computer Organization
 [ ] 学习绝对的基础: Operating Systems
 [ ] 学习绝对的基础: Computer Networks
@@ -40,7 +40,6 @@
 
 [ ] 学习新的Docker
 [ ] 学习机器学习
-[ ] 补完数据结构与算法(https://w3schools.com/dsa)
 [ ] 补完操作系统(https://tutorialspoint.com/operating_system)
 [ ] 补完CSS(https://www.w3schools.com/css/default.asp)
 [ ] 补完乐乐课堂(https://pan.baidu.com/s/1Gltyjb9UaBmG7RWEhHupRw?pwd=6z4c)
