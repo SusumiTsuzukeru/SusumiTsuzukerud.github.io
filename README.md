@@ -26,6 +26,17 @@
 [ ] 学习绝对的基础: Economics
 [ ] 学习绝对的基础: Psychology
 [ ] 学习绝对的基础: History
+[ ] 学习gimp快速入门
+[ ] 学习termux快速入门
+[ ] 学习mybatis快速入门
+[ ] 学习Unity快速入门(https://youtube.com/watch?v=nPW6tKeapsM)
+[ ] 学习flask快速入门
+[ ] 学习automa快速入门(https://www.youtube.com/@automarpa_ai)
+[ ] 学习sqllite快速入门
+[ ] 学习http快速入门
+[ ] 学习gradle快速入门
+[ ] 学习github快速入门(https://docs.github.com/get-started/quickstart/hello-world)
+[ ] 学习qemu虚拟机快速入门
 
 [ ] 学习新的Docker
 [ ] 学习机器学习
@@ -34,17 +45,10 @@
 [ ] 补完CSS(https://www.w3schools.com/css/default.asp)
 [ ] 补完乐乐课堂(https://pan.baidu.com/s/1Gltyjb9UaBmG7RWEhHupRw?pwd=6z4c)
 [ ] 学习archlinux手动安装(https://wiki.archlinux.org/title/Installation_guide)
-[ ] 学习qemu虚拟机(https://qemu.org)
 [ ] 补完Tinkercad(https://bilibili.com/video/BV1fK4y187jE?spm_id_from=333.788.videopod.episodes&vd_source=c2e06d1e2788a0a5e8c2b40d65f1f913&p=10)
 [ ] 学习FantasyWestwardJourneyGoldFarmingGuide搬砖(https://item.taobao.com/item.htm?abbucket=14&detail_redpacket_pop=true&id=680103533549&ltk2=17462882459885f8vltb7aawh5b0kq905si&ns=1&priceTId=undefined&query=%E6%A2%A6%E5%B9%BB%E8%A5%BF%E6%B8%B8%E6%90%AC%E7%A0%96&spm=a21n57.1.hoverItem.5&utparam=%7B%22aplus_abtest%22%3A%228144c30a70d36282e3d4768bbbdc32c3%22%7D&xxc=taobaoSearch)
 [ ] 学习mihomo-core(https://outstanding-value-42f.notion.site/Clash-Meta-25934f38fc1449f9b7e95c5ad194bff8    https://github.com/juewuy/ShellCrash)
 [ ] 申请虚拟信用卡
-[ ] 学习gimp快速入门
-[ ] 学习termux快速入门
-[ ] 学习mybatis快速入门
-[ ] 学习Unity快速入门(https://youtube.com/watch?v=nPW6tKeapsM)
-[ ] 学习flask快速入门
-[ ] 学习automa快速入门(https://www.youtube.com/@automarpa_ai)
 [ ] 学习并使用MCP
 [ ] 使用Github Copilot来理解开源项目
 [ ] 列举多个高情商处理场景全部输出到数组
@@ -58,7 +62,6 @@
 [ ] 列举需要知道的科普目录避免交智商税和上当受骗
 [ ] 常识学习目录
 [ ] 安全常识学习目录
-[ ] sqllite快速入门
 [ ] 给我一个独立生活指南学习目录,我刚大学毕业马上就去洛杉矶寻找工作了,我在家里面生活都是靠保姆,自己完全没有独立生活能力
 [ ] 制作一个简易计算机
 [ ] 常见的适合于普通人的实用医学知识
@@ -75,13 +78,9 @@
 [ ] 学习archlinux安装
 [ ] 学习浏览器扩展开发
 [ ] 学习rust(https://doc.rust-lang.org/book)
-[ ] 学习英语
 [ ] 学习macos基础(https://edu.gcfglobal.org/en/macosbasics)
 [ ] 学习email基础(https://edu.gcfglobal.org/en/topics/emailbasics)
 [ ] 学习git(https://learngitbranching.js.org)
-[ ] 学习http快速入门
-[ ] 学习gradle快速入门
-[ ] 学习github快速入门(https://docs.github.com/get-started/quickstart/hello-world)
 [ ] 学习fabric(https://docs.fabricmc.net/develop/getting-started/introduction-to-fabric-and-modding)
 
 ✓ DONE:
