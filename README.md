@@ -21,7 +21,45 @@
 [ ] 学习qemu虚拟机(https://qemu.org)
 [ ] 补完Tinkercad(https://bilibili.com/video/BV1fK4y187jE?spm_id_from=333.788.videopod.episodes&vd_source=c2e06d1e2788a0a5e8c2b40d65f1f913&p=10)
 [ ] 学习FantasyWestwardJourneyGoldFarmingGuide搬砖(https://item.taobao.com/item.htm?abbucket=14&detail_redpacket_pop=true&id=680103533549&ltk2=17462882459885f8vltb7aawh5b0kq905si&ns=1&priceTId=undefined&query=%E6%A2%A6%E5%B9%BB%E8%A5%BF%E6%B8%B8%E6%90%AC%E7%A0%96&spm=a21n57.1.hoverItem.5&utparam=%7B%22aplus_abtest%22%3A%228144c30a70d36282e3d4768bbbdc32c3%22%7D&xxc=taobaoSearch)
-[ ] 学习mihomo-core(https://outstanding-value-42f.notion.site/Clash-Meta-25934f38fc1449f9b7e95c5ad194bff8    https://github.com/juewuy/ShellCrash)    
+[ ] 学习mihomo-core(https://outstanding-value-42f.notion.site/Clash-Meta-25934f38fc1449f9b7e95c5ad194bff8    https://github.com/juewuy/ShellCrash)
+[ ] 申请虚拟信用卡
+[ ] 学习gimp快速入门
+[ ] 学习termux快速入门
+[ ] 学习mybatis快速入门
+[ ] 学习flask快速入门
+[ ] 学习automa快速入门(https://www.youtube.com/@automarpa_ai)
+[ ] 学习并使用MCP
+[ ] 使用Github Copilot来理解开源项目
+[ ] 列举多个高情商处理场景全部输出到数组
+[ ] 列举多个日常生活能接触到的工具并教我如何使用输出到数组
+[ ] 请给我一个miencraft redstone教程
+[ ] 请给我一个miencraft command block教程
+[ ] 请给我一个macos教程
+[ ] 生活常识学习目录
+[ ] 列举生活中常见的物理化学现象
+[ ] 列举生活中常见的化学物质的性质和用途,以及对对生命的危害程度.
+[ ] 列举需要知道的科普目录避免交智商税和上当受骗
+[ ] 常识学习目录
+[ ] 安全常识学习目录
+[ ] sqllite快速入门
+[ ] 给我一个独立生活指南学习目录,我刚大学毕业马上就去洛杉矶寻找工作了,我在家里面生活都是靠保姆,自己完全没有独立生活能力
+[ ] 制作一个简易计算机
+[ ] 常见的适合于普通人的实用医学知识
+[ ] 理解经度纬度
+[ ] 常见的文件后缀有哪些？它们这么取名字的内涵是什么？
+[ ] 学习网络爬虫
+[ ] 学习自动化脚本
+[ ] 学习逆向工程
+[ ] 学习渗透测试
+[ ] 学习网络数据包嗅探
+[ ] 学习越狱和Root
+[ ] 学习代理上网
+[ ] 学习汇编
+[ ] 学习archlinux安装
+[ ] 学习浏览器扩展开发
+[ ] 学习英语
+[ ] 学习macos基础(https://edu.gcfglobal.org/en/macosbasics)
+[ ] 学习email基础(https://edu.gcfglobal.org/en/topics/emailbasics)
 
 ✓ DONE:
 [x] 完成天府论坛报告
@@ -30,44 +68,7 @@
 https://mega.nz/folder/S2x1zbKD#UvcYCWQXaljR5eJU2KNOng
 ```
 # Hello LLM
-申请虚拟信用卡  
-学习gimp快速入门  
-学习termux快速入门  
-学习mybatis快速入门  
-学习flask快速入门  
-学习automa快速入门(https://www.youtube.com/@automarpa_ai)  
-学习并使用MCP  
-使用Github Copilot来理解开源项目  
-列举多个高情商处理场景全部输出到数组  
-列举多个日常生活能接触到的工具并教我如何使用输出到数组  
-请给我一个miencraft redstone教程  
-请给我一个miencraft command block教程  
-请给我一个macos教程  
-生活常识学习目录  
-列举生活中常见的物理化学现象  
-列举生活中常见的化学物质的性质和用途,以及对对生命的危害程度.  
-列举需要知道的科普目录避免交智商税和上当受骗  
-常识学习目录  
-安全常识学习目录  
-sqllite快速入门  
-给我一个独立生活指南学习目录,我刚大学毕业马上就去洛杉矶寻找工作了,我在家里面生活都是靠保姆,自己完全没有独立生活能力  
-制作一个简易计算机  
-常见的适合于普通人的实用医学知识   
-理解经度纬度  
-常见的文件后缀有哪些？它们这么取名字的内涵是什么？  
-学习网络爬虫  
-学习自动化脚本  
-学习逆向工程  
-学习渗透测试  
-学习网络数据包嗅探  
-学习越狱和Root  
-学习代理上网  
-学习汇编  
-学习archlinux安装  
-学习浏览器扩展开发  
-学习英语  
-学习macos基础(https://edu.gcfglobal.org/en/macosbasics)  
-学习email基础(https://edu.gcfglobal.org/en/topics/emailbasics)  
+
 
 # Knowledge Instrumentality Project
 https://learngitbranching.js.org  
