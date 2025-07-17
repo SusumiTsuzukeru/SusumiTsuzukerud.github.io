@@ -39,9 +39,9 @@
 [ ] 学习qemu虚拟机快速入门
 [ ] 学习Docker快速入门
 [ ] 学习浏览器Extensions开发快速入门
+[ ] 学习机器学习快速入门(https://www.w3schools.com/python/python_ml_getting_started.asp)
 
 
-[ ] 学习机器学习
 [ ] 补完操作系统(https://tutorialspoint.com/operating_system)
 [ ] 补完CSS(https://www.w3schools.com/css/default.asp)
 [ ] 补完乐乐课堂(https://pan.baidu.com/s/1Gltyjb9UaBmG7RWEhHupRw?pwd=6z4c)
