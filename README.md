@@ -77,12 +77,6 @@
 https://mega.nz/folder/S2x1zbKD#UvcYCWQXaljR5eJU2KNOng
 ```
 
-# Knowledge Instrumentality Project
-
-https://codecademy.com/learn/fundamentals-of-operating-systems  
-https://studytonight.com/computer-networks  
-https://geeksforgeeks.org/computer-organization-and-architecture-tutorials  
-
 # MyBookmarks  
 https://w3schools.com  
 https://freecodecamp.org  
