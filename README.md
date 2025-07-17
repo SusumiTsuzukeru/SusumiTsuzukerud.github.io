@@ -65,6 +65,9 @@ sqllite快速入门
 学习汇编  
 学习archlinux安装  
 学习浏览器扩展开发  
+学习英语  
+学习macos基础(https://edu.gcfglobal.org/en/macosbasics)
+学习email基础(https://edu.gcfglobal.org/en/topics/emailbasics)
 
 # Knowledge Instrumentality Project
 https://learngitbranching.js.org  
@@ -72,13 +75,9 @@ https://w3schools.com
 https://freecodecamp.org  
 https://codecademy.com/learn/fundamentals-of-operating-systems  
 https://docs.fabricmc.net/develop/getting-started/introduction-to-fabric-and-modding  
-https://edu.gcfglobal.org/en/topics/emailbasics  
-https://edu.gcfglobal.org/en/macosbasics  
 https://studytonight.com/computer-networks  
 https://geeksforgeeks.org/computer-organization-and-architecture-tutorials  
-https://www.geeksforgeeks.org/english-grammar  
 
-https://mybatis.org/mybatis-3/getting-started  
 https://docs.github.com/get-started/quickstart/hello-world  
 https://docker-curriculum.com  
 https://youtube.com/watch?v=nPW6tKeapsM  
