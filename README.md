@@ -9,6 +9,9 @@
 [ ] 最终确定毕业项目题目 (等待 @导师 回复确认)
 
 ~ BACKGROUND:
+[ ] 学习OOP
+[ ] 学习Software Design Patterns
+[ ] 学习SQL或者NoSQL
 [ ] 学习Data Structures and Algorithms
 [ ] 学习Computer Architecture或者Computer Organization
 [ ] 学习Operating Systems
