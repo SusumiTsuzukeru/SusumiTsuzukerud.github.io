@@ -9,23 +9,23 @@
 [ ] 最终确定毕业项目题目 (等待 @导师 回复确认)
 
 ~ BACKGROUND:
-[ ] 学习OOP
-[ ] 学习Software Design Patterns
-[ ] 学习SQL或者NoSQL
-[ ] 学习Data Structures and Algorithms
-[ ] 学习Computer Architecture或者Computer Organization
-[ ] 学习Operating Systems
-[ ] 学习Computer Networks
-[ ] 学习Mathematics
-[ ] 学习Physics
-[ ] 学习Biology
-[ ] 学习English
-[ ] 学习Chemistry
-[ ] 学习Philosophy
-[ ] 学习Logic
-[ ] 学习Economics
-[ ] 学习Psychology
-[ ] 学习History
+[ ] 学习绝对的基础: OOP
+[ ] 学习绝对的基础: Software Design Patterns
+[ ] 学习绝对的基础: SQL或者NoSQL
+[ ] 学习绝对的基础: Data Structures and Algorithms
+[ ] 学习绝对的基础: Computer Architecture或者Computer Organization
+[ ] 学习绝对的基础: Operating Systems
+[ ] 学习绝对的基础: Computer Networks
+[ ] 学习绝对的基础: Mathematics
+[ ] 学习绝对的基础: Physics
+[ ] 学习绝对的基础: Biology
+[ ] 学习绝对的基础: English
+[ ] 学习绝对的基础: Chemistry
+[ ] 学习绝对的基础: Philosophy
+[ ] 学习绝对的基础: Logic
+[ ] 学习绝对的基础: Economics
+[ ] 学习绝对的基础: Psychology
+[ ] 学习绝对的基础: History
 
 [ ] 学习新的Docker
 [ ] 学习机器学习
