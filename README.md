@@ -9,6 +9,8 @@
 [ ] 最终确定毕业项目题目 (等待 @导师 回复确认)
 
 ~ BACKGROUND:
+[ ] 请讲解这个配置文件/etc/nixos/configuration.nix
+[ ] 请讲解这个配置文件~/.config/hypr/hyprland.conf
 [ ] 学习绝对的基础: OOP
 [ ] 学习绝对的基础: Software Design Patterns
 [ ] 学习绝对的基础: SQL或者NoSQL
