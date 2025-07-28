@@ -198,7 +198,7 @@ yay -S rustdesk-bin    # https://github.com/rustdesk
   sudo usermod -aG docker $USER
   sudo poweroff
 # https://github.com/espanso
-  yay -S  espanso-x11-git
+  yay -S espanso-wayland
   espanso service register
   espanso service start
 # https://github.com/fish-shell/fish-shell
