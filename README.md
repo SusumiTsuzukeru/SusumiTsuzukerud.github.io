@@ -144,7 +144,7 @@ https://github.com/Bistutu/FluentRead    https://addons.mozilla.org/zh-CN/firefo
 
 # Packages
 ```bash
-sudo pacman -S noto-fonts-cjk    # https://www.google.com/get/noto
+sudo pacman -S noto-fonts-cjk ttf-font-awesome   # https://www.google.com/get/noto
 sudo pacman -S fcitx5-im fcitx5-rime    # https://github.com/rime
 sudo pacman -S lib32-nvidia-utils nvidia-utils    # http://www.nvidia.com
 sudo pacman -S lib32-mesa-utils    # http://mesa3d.sourceforge.net
