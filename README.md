@@ -691,7 +691,7 @@ vim.keymap.set('n', '<leader>fg', builtin.live_grep, { desc = 'Live Grep' })
 vim.keymap.set('n', '<leader>fb', builtin.buffers, { desc = 'Find Buffers' })
 vim.keymap.set('n', '<leader>fh', builtin.help_tags, { desc = 'Find Help Tags' })
 ```
-```jsonc
+```javascript
 // ~/.config/waybar/config 
 // -*- mode: jsonc -*-
 {
@@ -822,5 +822,106 @@ vim.keymap.set('n', '<leader>fh', builtin.help_tags, { desc = 'Find Help Tags' }
 		"tooltip": false,
 		"on-click": "wlogout"
     }
+}
+```
+```
+imak@archlinux ~> cat ~/.config/waybar/style.css 
+/*
+ * Frosted Glass (Transparent & Blurred) Theme - Updated
+ * ~/.config/waybar/style.css
+ */
+
+/* ----- Color Definitions ----- */
+/* 我们只定义功能性颜色，所有装饰性颜色都去除 */
+@define-color text-color      #F2F2F2; /* 非常亮的白色，保证可读性 */
+@define-color inactive-fg     #888888; /* 未激活工作区的颜色 */
+@define-color highlight-bg    rgba(255, 255, 255, 0.15); /* 聚焦时使用半透明的白色辉光，而非实体颜色 */
+@define-color critical-color  #E53935; /* 严重警告颜色 (红色) - 为功能性保留 */
+@define-color warning-color   #FDD835; /* 普通警告颜色 (黄色) - 为功能性保留 */
+
+/* ----- Global Styles ----- */
+* {
+    border: none;
+    border-radius: 0;
+    font-family: JetBrainsMono Nerd Font, FontAwesome, sans-serif;
+    font-size: 10px;
+    min-height: 0;
+}
+
+/* ----- Main Bar ----- */
+window#waybar {
+    background-color: transparent; /* 核心：背景完全透明 */
+    color: @text-color;
+}
+
+/* ----- All Modules ----- */
+#workspaces,
+#clock,
+#battery,
+#pulseaudio,
+#network,
+#cpu,
+#memory,
+#temperature,
+#tray,
+#mpd,
+#idle_inhibitor,
+#backlight,
+#custom-power {
+    padding: 0px 10px;
+    margin: 1px 0px;
+}
+
+/* ----- Workspaces ----- */
+#workspaces button {
+    padding: 2px 5px;
+    background-color: transparent;
+    color: @inactive-fg;
+    transition: all 0.2s ease;
+}
+
+/*
+ * ##################################################################
+ * #               这里是本次修改的核心区域                       #
+ * ##################################################################
+ */
+#workspaces button:hover {
+    background-color: @highlight-bg; /* 鼠标悬停时，仅改变背景使其发光 */
+    /* color: @text-color; */          /* 我们注释掉了这一行，图标颜色将不再改变 */
+    border-radius: 8px;
+}
+
+#workspaces button.focused {
+    background-color: @highlight-bg;
+    color: @text-color; /* 聚焦时也使用亮白色，靠背景辉光来区分 */
+    border-radius: 8px;
+}
+
+#workspaces button.urgent {
+    background-color: @critical-color;
+    color: @text-color;
+    border-radius: 8px;
+}
+
+/* ----- Module State Changes ----- */
+/* 仅在必要时使用功能性颜色 */
+#battery.critical, #battery.critical.plugged {
+    color: @critical-color;
+}
+
+#battery.warning, #battery.warning.plugged {
+    color: @warning-color;
+}
+
+#temperature.critical {
+    color: @critical-color;
+}
+
+#network.disconnected {
+    color: @inactive-fg;
+}
+
+#pulseaudio.muted {
+    color: @inactive-fg;
 }
 ```
