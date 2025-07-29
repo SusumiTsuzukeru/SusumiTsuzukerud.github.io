@@ -692,7 +692,7 @@ vim.keymap.set('n', '<leader>fb', builtin.buffers, { desc = 'Find Buffers' })
 vim.keymap.set('n', '<leader>fh', builtin.help_tags, { desc = 'Find Help Tags' })
 ```
 ```jsonc
-imak@archlinux ~> cat ~/.config/waybar/config 
+// ~/.config/waybar/config 
 // -*- mode: jsonc -*-
 {
     "layer": "top",
