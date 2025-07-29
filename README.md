@@ -824,8 +824,8 @@ vim.keymap.set('n', '<leader>fh', builtin.help_tags, { desc = 'Find Help Tags' }
     }
 }
 ```
-```
-imak@archlinux ~> cat ~/.config/waybar/style.css 
+```css
+/* ~/.config/waybar/style.css */
 /*
  * Frosted Glass (Transparent & Blurred) Theme - Updated
  * ~/.config/waybar/style.css
