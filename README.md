@@ -290,6 +290,11 @@ matches:
 
 
 ```
+```ini
+# ~/.config/code-flags.conf
+--enable-features=UseOzonePlatform,WaylandWindowDecorations
+--ozone-platform=wayland
+```
 
 ```ini
 # ~/.config/kitty/kitty.conf 
