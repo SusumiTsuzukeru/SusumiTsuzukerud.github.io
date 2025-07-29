@@ -175,7 +175,6 @@ sudo pacman -S flatpak    # https://flatpak.org
 sudo pacman -S imagemagick    # https://imagemagick.org
 sudo pacman -S okular    # https://okular.kde.org
 sudo pacman -S copyq    # https://github.com/hluk/CopyQ
-sudo pacman -S maim    # https://github.com/naelstrof/maim
 sudo pacman -S spectacle    # https://invent.kde.org/plasma/spectacle
 yay -S visual-studio-code-bin
 yay -S cursor-bin
