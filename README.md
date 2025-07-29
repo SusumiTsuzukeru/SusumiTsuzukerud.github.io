@@ -296,13 +296,11 @@ window-decoration = "none"
 ```
 
 ```bash
-#!/bin/sh
-# ~/.config/qtile/autostart.sh
-# chmod +x ~/.config/qtile/autostart.sh
+# ~/.config/hypr/hyprpaper.conf 
+preload = /home/imak/Pictures/Wallpapers/wallpaper1.png
+preload = /home/imak/Pictures/Wallpapers/wallpaper2.png
 
-mihomo-party &
-fcitx5 &
-copyq &
+wallpaper = ,/home/imak/Pictures/Wallpapers/wallpaper1.png
 ```
 
 ```bash
