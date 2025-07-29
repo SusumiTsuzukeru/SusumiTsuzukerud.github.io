@@ -289,10 +289,12 @@ matches:
 
 ```
 
-```toml
-# ~/.config/ghostty/config
-theme = "Pro"
-window-decoration = "none"
+```ini
+# ~/.config/kitty/kitty.conf 
+font_family      JetBrainsMono Nerd Font
+font_size 10
+background_opacity 0.85
+background_blur 15
 ```
 
 ```bash
