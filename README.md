@@ -295,6 +295,11 @@ matches:
 --enable-features=UseOzonePlatform,WaylandWindowDecorations
 --ozone-platform=wayland
 ```
+```ini
+# ~/.config/cursor-flags.conf
+--enable-features=UseOzonePlatform,WaylandWindowDecorations
+--ozone-platform=wayland
+```
 
 ```ini
 # ~/.config/kitty/kitty.conf 
