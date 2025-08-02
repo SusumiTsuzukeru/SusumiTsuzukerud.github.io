@@ -184,7 +184,6 @@ yay -S cursor-bin
 yay -S vagrant    # https://github.com/hashicorp/vagrant
 yay -S envycontrol    # https://github.com/bayasdev/envycontrol or https://github.com/Askannz/optimus-manager
 yay -S neovim-nightly-bin    # https://github.com/neovim/neovim
-yay -S Ventoy-bin    # https://github.com/ventoy
 yay -S rustdesk-bin    # https://github.com/rustdesk
 ```
 
