@@ -146,6 +146,7 @@ https://github.com/Bistutu/FluentRead    https://addons.mozilla.org/zh-CN/firefo
 
 # Packages
 ```bash
+sudo pacman -S xdg-desktop-portal-hyprland xdg-desktop-portal-gtk    # system dark theme
 sudo pacman -S noto-fonts-cjk ttf-font-awesome ttf-jetbrains-mono-nerd    # https://www.google.com/get/noto
 sudo pacman -S waybar
 sudo pacman -S grim slurp wl-clipboard
